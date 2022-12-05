@@ -1,0 +1,15 @@
+{
+    "name": "The Culture",
+    "symbol": "CULTURE",
+    "description": "The Culture Cards deliver authenticated NFT’s of pillars of The Culture and its architects, the collectibles combined with exclusive prices give the user an experience like never seen before. \n-Christopher Lee Rios (November 10, 1971 – February 7, 2000), better known by his stage name Big Pun (short for Big Punisher), was an American rapper and songwriter. \nHis lyrics are notable for their technical efficiency, having exceptional breath control, heavy use of alliteration, as well as internal and multi-syllabic rhyming schemes. \nHe is frequently cited as one of the best MCs of all time. Emerging from the underground Hip Hop scene in the Bronx borough of New York City in the early 1990s, he came to prominence during the latter half of the decade for his work with Fat Joe and the Terror Squad.\n",
+    "image": "collection.jpg",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.jpg",
+          "type": "image/jpg"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,114 @@
+{
+  "name": "Big Pun / Silver",
+  "symbol": "CULTURE",
+  "description": "The Culture Cards deliver authenticated NFT’s of pillars of The Culture and its architects, the collectibles combined with exclusive prices give the user an experience like never seen before. \n-Christopher Lee Rios (November 10, 1971 – February 7, 2000), better known by his stage name Big Pun (short for Big Punisher), was an American rapper and songwriter. \nHis lyrics are notable for their technical efficiency, having exceptional breath control, heavy use of alliteration, as well as internal and multi-syllabic rhyming schemes. \nHe is frequently cited as one of the best MCs of all time. Emerging from the underground Hip Hop scene in the Bronx borough of New York City in the early 1990s, he came to prominence during the latter half of the decade for his work with Fat Joe and the Terror Squad.\n",
+  "seller_fee_basis_points": 1000,
+  "image": "0.jpg",
+  "animation_url": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/1.mp4",
+  "external_url": "https://www.theculturecards.io",
+  "attributes": [
+    {
+      "trait_type": "Classification",
+      "value": "ARTIST / HIP HOP"
+    },
+    {
+      "trait_type": "Artist",
+      "value": "Big Pun"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Hip Hop"
+    },
+    {
+      "trait_type": "Version",
+      "value": "Genesis"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Iconic"
+    },
+    {
+      "trait_type": "Value",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Colour",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "Position",
+      "value": "Artist"
+    },
+    {
+      "trait_type": "Location/City",
+      "value": "Bronx, NY"
+    },
+    {
+      "trait_type": "Average Score",
+      "value": "95"
+    },
+    {
+      "trait_type": "Total score",
+      "value": "962502"
+    },
+    {
+      "trait_type": "Lyrics",
+      "value": "97"
+    },
+    {
+      "trait_type": "Flow",
+      "value": "98"
+    },
+    {
+      "trait_type": "Wordplay",
+      "value": "98"
+    },
+    {
+      "trait_type": "Charisma",
+      "value": "98"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "89"
+    },
+    {
+      "trait_type": "Swag",
+      "value": "90"
+    },
+    {
+      "trait_type": "Stage Perf.",
+      "value": "88"
+    },
+    {
+      "trait_type": "Music videos",
+      "value": "94"
+    },
+    {
+      "trait_type": "Hits",
+      "value": "94"
+    },
+    {
+      "trait_type": "Cultural Imp.",
+      "value": "100"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/1.jpg",
+        "type": "image/jpg"
+      },
+      {
+        "uri": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/1.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video",
+    "creators": [
+      {
+        "address": "BT1232CTFEH6CLabr5FXAGgvXudjXwZ6FrDmDwi1RNfg",
+        "share": 100
+      }
+    ]
+  }
+}

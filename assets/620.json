@@ -1,0 +1,52 @@
+{
+  "name": "Drink Champs / Black ",
+  "symbol": "CULTURE",
+  "description": "The Culture Cards deliver authenticated  NFT’s of pillars of The Culture and its architects, the collectibles combined with exclusive prices give the user an experience like never seen before. Drink Champs , which launched in January 2015, brings together Queens rapper N.O.R.E. and Miami hip-hop pioneer DJ EFN for a weekly talk session.  With guests like Kanye West, The Game and 50 cent come on, and talk over some drinks discussing everything from current events to old stories of their careers. The show garners millions of views per episode and has become the biggest and most respected Hip Hop podcast in the world.",
+  "seller_fee_basis_points": 1000,
+  "image": "618.jpg",
+  "animation_url": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/619.mp4",
+  "external_url": "https://www.theculturecards.io",
+  "attributes": [
+    { "trait_type": "Classification", "value": "ARCHITECT" },
+    { "trait_type": "Name", "value": "Drink Champs / Black #" },
+    { "trait_type": "Artist", "value": "Drink Champs" },
+    { "trait_type": "Genre", "value": "Media / Podcast" },
+    { "trait_type": "Version", "value": "Genesis" },
+    { "trait_type": "Status", "value": "Legendary" },
+    { "trait_type": "Value", "value": "Exclusive" },
+    { "trait_type": "Colour", "value": "Black" },
+    { "trait_type": "Position", "value": "Architect" },
+    { "trait_type": "Location/City", "value": "Miami, FL" },
+    { "trait_type": "Average Score", "value": "92" },
+    { "trait_type": "Total score", "value": "93800" },
+    { "trait_type": "Influence", "value": "93" },
+    { "trait_type": "Reputation", "value": "93" },
+    { "trait_type": "Charisma", "value": "93" },
+    { "trait_type": "Legacy", "value": "89" },
+    { "trait_type": "Longevity", "value": "88" },
+    { "trait_type": "Leadership", "value": "94" },
+    { "trait_type": "Hit / Success", "value": "95" },
+    { "trait_type": "Pioneer", "value": "90" },
+    { "trait_type": "Business Mind", "value": "94" },
+    { "trait_type": "Cultural Imp.", "value": "94" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/619.jpg",
+        "type": "image/jpg"
+      },
+      {
+        "uri": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/619.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video",
+    "creators": [
+      {
+        "address": "BT1232CTFEH6CLabr5FXAGgvXudjXwZ6FrDmDwi1RNfg",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Onyx / Black",
+  "symbol": "CULTURE",
+  "description": "The Culture Cards deliver authenticated NFT’s of pillars of The Culture and its architects, the collectibles combined with exclusive prices give the user an experience like never seen before. -Christopher Lee Rios (November 10, 1971 – February 7, 2000), better known by his stage name Big Pun (short for Big Punisher), was an American rapper and songwriter. His lyrics are notable for their technical efficiency, having exceptional breath control, heavy use of alliteration, as well as internal and multi-syllabic rhyming schemes. He is frequently cited as one of the best MCs of all time. Emerging from the underground Hip Hop scene in the Bronx borough of New York City in the early 1990s, he came to prominence during the latter half of the decade for his work with Fat Joe and the Terror Squad.",
+  "seller_fee_basis_points": 1000,
+  "image": "774.jpg",
+  "animation_url": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/775.mp4",
+  "external_url": "https://www.theculturecards.io",
+  "attributes": [
+    { "trait_type": "Classification", "value": "DYNAMIC DUO" },
+    { "trait_type": "Artist", "value": "Onyx" },
+    { "trait_type": "Genre", "value": "Hip Hop" },
+    { "trait_type": "Version", "value": "Genesis" },
+    { "trait_type": "Value", "value": "Exclusive" },
+    { "trait_type": "Colour", "value": "Black" },
+    { "trait_type": "Position", "value": "Dynamic Duo" },
+    { "trait_type": "Location/City", "value": "Queens, NY" },
+    { "trait_type": "Average Score", "value": "93" },
+    { "trait_type": "Total score", "value": "94800" },
+    { "trait_type": "Lyrics", "value": "86" },
+    { "trait_type": "Chemistry", "value": "96" },
+    { "trait_type": "Charisma", "value": "92" },
+    { "trait_type": "Cult. Impact", "value": "93" },
+    { "trait_type": "Energy", "value": "100" },
+    { "trait_type": "Stage Perf.", "value": "98" },
+    { "trait_type": "Body Of Work", "value": "88" },
+    { "trait_type": "Hits / Classics", "value": "88" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/775.jpg",
+        "type": "image/jpg"
+      },
+      {
+        "uri": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/775.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video",
+    "creators": [
+      {
+        "address": "BT1232CTFEH6CLabr5FXAGgvXudjXwZ6FrDmDwi1RNfg",
+        "share": 100
+      }
+    ]
+  }
+}

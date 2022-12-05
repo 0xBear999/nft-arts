@@ -1,0 +1,56 @@
+{
+  "name": "April Walker / Gold",
+  "collection": {
+    "family": "The Culture Cards"
+  },
+
+  "symbol": "CULTURE",
+  "description": "The Culture Cards deliver authenticated  NFT’s of pillars of The Culture and its architects, the collectibles combined with exclusive prices give the user an experience like never seen before. April Walker is a fashion game-changer and culture creator that inspired a lane helping to create a multi-billion industry coined as streetwear today through her brand, Walker Wear. As the first woman in this lane, she’s also one of the first to dominate in urban menswear, securing celebrity endorsements from the likes of legends, like Tupac, Notorious B.I.G. Snoop Dogg and Aaliyah. \nHer brand was one of the first to open distribution doors and command millions in sales, and the Walker Wear lifestyle brand still thrives today. Walker has consulted for various brands, penned her first five-star book available on Amazon called -Walkergems, Get Your A$% Off The Couch-. She has also been featured in the films -Fresh Dressed- and the award winning documentary, The Remix: Hip Hop x Fashion . ",
+  "seller_fee_basis_points": 1000,
+  "image": "412.jpg",
+  "animation_url": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/413.mp4",
+  "external_url": "https://www.theculturecards.io",
+  "attributes": [
+    { "trait_type": "Classification", "value": "ARCHITECT" },
+    { "trait_type": "Name", "value": "April Walker / Gold #" },
+    { "trait_type": "Artist", "value": "April Walker" },
+    { "trait_type": "Genre", "value": "Fashion" },
+    { "trait_type": "Version", "value": "Genesis" },
+    { "trait_type": "Status", "value": "Legendary" },
+    { "trait_type": "Value", "value": "Super Rare" },
+    { "trait_type": "Colour", "value": "Gold" },
+    { "trait_type": "Position", "value": "Architect" },
+    { "trait_type": "Location/City", "value": "Brooklyn, NY" },
+    { "trait_type": "Average Score", "value": "92" },
+    { "trait_type": "Total score", "value": "93300" },
+    { "trait_type": "Influence", "value": "89" },
+    { "trait_type": "Reputation", "value": "92" },
+    { "trait_type": "Charisma", "value": "90" },
+    { "trait_type": "Legacy", "value": "93" },
+    { "trait_type": "Longevity", "value": "94" },
+    { "trait_type": "Leadership", "value": "85" },
+    { "trait_type": "Hit / Success", "value": "92" },
+    { "trait_type": "Pioneer", "value": "97" },
+    { "trait_type": "Business Mind", "value": "96" },
+    { "trait_type": "Cultural Imp.", "value": "95" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/413.jpg",
+        "type": "image/jpg"
+      },
+      {
+        "uri": "https://sunblocks.mypinata.cloud/ipfs/QmQkDfPQ9yaHMUUjW3tZUfcKwoMSHxxGFUjLkSzocLJZMD/413.mp4",
+        "type": "video/mp4"
+      }
+    ],
+    "category": "video",
+    "creators": [
+      {
+        "address": "BT1232CTFEH6CLabr5FXAGgvXudjXwZ6FrDmDwi1RNfg",
+        "share": 100
+      }
+    ]
+  }
+}
